@@ -1,7 +1,4 @@
-# staycalm
-Source code for analyzing and optimizing devices and systems in __stay__ **ca**b**l**e vibration **m**itigation.
+# CableLab
+Python code for dynamic analysis and vibration control of stay cables. It is designed for both academic use and industrial application. 
 
 # Description
-* Complex modal analysis of a cable attached with a damper
-* Complex modal analysis of cables interconnected with viscoelastic ties
-* Steady-state analysis of a cable with a nonlinear damper
