@@ -1,1 +1,1 @@
-Cablelab is a library for performing dynamic analysis of stay cables under control in Matlab environment. 
+Complex modal analysis for structures with local attachments which modify structural damping, stiffness, mass or inertance.
